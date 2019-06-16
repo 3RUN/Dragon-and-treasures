@@ -1,0 +1,10 @@
+gold id=1 price=250
+diamond id=2 price=3450
+coin id=3 price=430
+amber id=4 price=200
+cat’s_eye id=5 price=345
+ring id=6 price=753
+necklace id=7 price=1553
+earrings id=8 price=845
+gems id=9 price=5667
+jewel id=10 price=9720
